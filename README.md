@@ -13,19 +13,23 @@ visualization.
 ---
 
 ## **Features**
-- **Revenue Analysis**: Calculate total and average revenue, identify trends, and find top-performing regions.  
-- **Product Performance**: Analyze product categories and items generating the highest revenue.  
-- **Customer Insights**: Identify top customers by revenue and average order frequency.  
-- **Time-Based Trends**: Visualize monthly revenue patterns to understand seasonality.  
-- **Actionable Insights**: Provide recommendations for improving sales and customer retention.  
+
+- **Revenue Analysis**: Calculate total and average revenue, identify trends, and find top-performing regions.
+- **Product Performance**: Analyze product categories and items generating the highest revenue.
+- **Customer Insights**: Identify top customers by revenue and average order frequency.
+- **Time-Based Trends**: Visualize monthly revenue patterns to understand seasonality.
+- **Actionable Insights**: Provide recommendations for improving sales and customer retention.
 
 ---
 
-Technologies Used
-Python
-Pandas (for data manipulation)
-Matplotlib (for visualizations)
-Jupyter Notebook (for interactive analysis)
+## **Technologies Used**
+
+- **Python**
+    - Pandas (for data manipulation)
+    - Matplotlib (for visualizations)
+
+---
+
 Setup Instructions
 Clone this repository to your local machine:
 
