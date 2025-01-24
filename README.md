@@ -1,5 +1,5 @@
 Sales Data Analysis Project
-Overview
+
 This project analyzes sales data for a fictional retail company to extract meaningful insights and trends. The dataset
 contains information about orders, customers, regions, products, and sales. The analysis focuses on identifying
 top-performing products, revenue trends, customer behaviors, and regional contributions to overall sales.
