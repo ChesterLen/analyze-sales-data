@@ -14,7 +14,9 @@ data = {
 
 df = data_framer(data)
 
-print(df.duplicated())
+df = df.dropna()
+
+df = df.drop_duplicates()
 
 df['Order Date'] = pd.to_datetime(df['Order Date'])
 df['Total Sales'] = pd.to_numeric(df['Total Sales'])
