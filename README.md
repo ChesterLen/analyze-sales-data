@@ -30,20 +30,17 @@ visualization.
 
 ---
 
-Setup Instructions
-Clone this repository to your local machine:
+## **Setup Instructions**  
+1. Clone this repository to your local machine:  
+   ```bash
+   git clone https://github.com/your-username/sales-data-analysis.git
+   cd sales-data-analysis
 
-bash
-Copy
-Edit
-git clone https://github.com/your-username/sales-data-analysis.git
-cd sales-data-analysis
-Install the required Python libraries:
 
-bash
-Copy
-Edit
+## **Install the required Python libraries:**
+
 pip install -r requirements.txt
+
 
 Dataset Description
 The dataset sales_data.csv includes the following columns:
