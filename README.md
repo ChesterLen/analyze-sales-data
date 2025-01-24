@@ -1,4 +1,4 @@
-Sales Data Analysis Project
+# **Sales Data Analysis Project**
 
 This project analyzes sales data for a fictional retail company to extract meaningful insights and trends. The dataset
 contains information about orders, customers, regions, products, and sales. The analysis focuses on identifying
