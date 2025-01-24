@@ -41,16 +41,19 @@ jupyter notebook sales_analysis.ipynb
 Dataset Description
 The dataset sales_data.csv includes the following columns:
 
-Column Name Description
-Order ID Unique identifier for each order
-Order Date Date when the order was placed
-Customer ID Unique identifier for customers
-Region Region where the order was placed
-Product Category Category of the product (e.g., Electronics, Furniture)
-Product Name Name of the product
-Quantity Number of units ordered
-Unit Price Price per unit of the product
-Total Sales Total revenue generated from the order (Quantity * Unit Price)
+| **Column Name**        | **Description**                                              |
+|-------------------------|--------------------------------------------------------------|
+| `Order ID`             | Unique identifier for each order                             |
+| `Order Date`           | Date when the order was placed                               |
+| `Customer ID`          | Unique identifier for customers                              |
+| `Region`               | Region where the order was placed                            |
+| `Product Category`     | Category of the product (e.g., Electronics, Furniture)       |
+| `Product Name`         | Name of the product                                          |
+| `Quantity`             | Number of units ordered                                      |
+| `Unit Price`           | Price per unit of the product                                |
+| `Total Sales`          | Total revenue generated from the order (Quantity * Unit Price) |
+
+
 Key Insights
 Top-Performing Product Categories: Electronics contribute 60% of the total revenue.
 Revenue by Region: The North region generates the highest revenue.
@@ -60,17 +63,3 @@ Visualizations
 Monthly Revenue Trends
 
 Top Product Categories
-
-Dataset Description
-The dataset sales_data.csv includes the following columns:
-
-Column Name	Description
-Order ID	Unique identifier for each order
-Order Date	Date when the order was placed
-Customer ID	Unique identifier for customers
-Region	Region where the order was placed
-Product Category	Category of the product (e.g., Electronics, Furniture)
-Product Name	Name of the product
-Quantity	Number of units ordered
-Unit Price	Price per unit of the product
-Total Sales	Total revenue generated from the order (Quantity * Unit Price)
