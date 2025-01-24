@@ -1,4 +1,5 @@
 from python_code.common.data_framer import data_framer
+import pandas as pd
 
 data = {
     'Order ID': [1, 2, 3],
@@ -12,3 +13,6 @@ data = {
 }
 
 df = data_framer(data)
+
+df['Order Date'] = pd.to_datetime(df['Order Date'])
+df['Total Sales'] = pd.to_numeric(df['Total Sales'])
