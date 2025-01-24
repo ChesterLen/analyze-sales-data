@@ -57,11 +57,12 @@ visualization.
 | `Total Sales`      | Total revenue generated from the order (Quantity * Unit Price) |
 
 ## Key Insights
-Top-Performing Product Categories: Electronics contribute 60% of the total revenue.
-Revenue by Region: The North region generates the highest revenue.
-Seasonality: Peak sales occur in December due to holiday shopping.
-Customer Behavior: 20% of customers contribute 80% of the revenue (Pareto principle).
-Visualizations
-Monthly Revenue Trends
+    1. Top-Performing Product Categories: Electronics contribute 60% of the total revenue.
+    2. Revenue by Region: The North region generates the highest revenue.
+    3. Seasonality: Peak sales occur in December due to holiday shopping.
+    4. Customer Behavior: 20% of customers contribute 80% of the revenue (Pareto principle).
 
-Top Product Categories
+## Visualizations
+    1. Monthly Revenue Trends
+    
+    2. Top Product Categories
