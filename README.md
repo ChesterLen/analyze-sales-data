@@ -42,8 +42,7 @@ visualization.
     pip install -r requirements.txt
 
 
-Dataset Description
-The dataset sales_data.csv includes the following columns:
+## **Dataset Description**
 
 | **Column Name**    | **Description**                                                |
 |--------------------|----------------------------------------------------------------|
