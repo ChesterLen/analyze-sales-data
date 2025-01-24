@@ -56,7 +56,7 @@ visualization.
 | `Unit Price`       | Price per unit of the product                                  |
 | `Total Sales`      | Total revenue generated from the order (Quantity * Unit Price) |
 
-Key Insights
+## Key Insights
 Top-Performing Product Categories: Electronics contribute 60% of the total revenue.
 Revenue by Region: The North region generates the highest revenue.
 Seasonality: Peak sales occur in December due to holiday shopping.
