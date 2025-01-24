@@ -1,8 +1,8 @@
 # **Sales Data Analysis Project**
 
-This project analyzes sales data for a fictional retail company to extract meaningful insights and trends. The dataset contains information about orders, customers, regions, products, and sales. The analysis focuses on identifying top-performing products, revenue trends, customer behaviors, and regional contributions to overall sales.  
+This project analyzes sales data for a fictional retail company to extract meaningful insights and trends. The dataset contains information about orders, customers, regions, products, and sales. The analysis focuses on identifying top-performing products, revenue trends, customer behaviors, and regional contributions to overall sales.
 
-The project was developed using **Python** and leverages libraries like **Pandas** and **Matplotlib** for data manipulation and visualization.  
+The project was developed using **Python** and leverages libraries like **Pandas** and **Matplotlib** for data manipulation and visualization.
 
 ---
 
