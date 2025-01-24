@@ -32,12 +32,7 @@ bash
 Copy
 Edit
 pip install -r requirements.txt
-Run the Jupyter Notebook for analysis:
 
-bash
-Copy
-Edit
-jupyter notebook sales_analysis.ipynb
 Dataset Description
 The dataset sales_data.csv includes the following columns:
 
